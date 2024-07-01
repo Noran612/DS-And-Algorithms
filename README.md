@@ -1,2 +1,2 @@
 # DS-And-Algorithms
-Data Structure And algorithms projects 
+This is where I keep my favorite data structurs and algorithms 😊
